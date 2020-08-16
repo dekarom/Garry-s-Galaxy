@@ -1,0 +1,6 @@
+dm 50 2
+ug 7654 3
+lkjh 226 1
+sgk 43 1
+ljf 998 1
+jhgfds 45677 2
